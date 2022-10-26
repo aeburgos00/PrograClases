@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666784087 source:c:\users\usuario\documents\programas\clase\listadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaDinamica.h"
+
+1666786908 c:\users\usuario\documents\programas\clase\listadinamica\listadinamica.h
+
+1666786923 source:c:\users\usuario\documents\programas\clase\listadinamica\listadinamica.c
+	"listaDinamica.h"
+	<stdlib.h>
+	<string.h>
+
